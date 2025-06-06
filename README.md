@@ -11,5 +11,6 @@ Best and worst performing pizzas
 **📸 Dashboard Screenshots**
 
 🖼 Home Page:
+![image alt](https://github.com/Praveens2912/Pizza-Sales-Analysis-Dashboard-Power-BI-SQL/blob/4102dfe5017b6a07aea5f7a07b7c53e2832bb246/Screenshot%202025-06-06%20191141.png)
 
 🖼 Best/Worst Sellers:
